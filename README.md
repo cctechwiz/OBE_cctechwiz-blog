@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d10c142c-e0b0-4a40-b02b-ec17db716101/deploy-status)](https://app.netlify.com/sites/frosty-ptolemy-1d7066/deploys)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
